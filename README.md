@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/018d3135-3a5e-46dc-a923-b848d91a42bc.svg)](https://wakatime.com/@018d3135-3a5e-46dc-a923-b848d91a42bc)
+
 ![](https://raw.githubusercontent.com/AllanMisasa/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AllanMisasa/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
 
